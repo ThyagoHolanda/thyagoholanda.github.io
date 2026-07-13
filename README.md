@@ -1,5 +1,22 @@
-# HMTL5 E CSS3
-<h1>Curso de HTML5 e CSS3</h1>
+# Portfólio de Thyago Holanda
 
- <a href="https://thyagoholanda.github.io/html-css/exercicios/"><button>Exercícios</button></a>
- <a href="https://thyagoholanda.github.io/html-css/Desafios/"><button>Desafios</button></a>
+Este repositório hospeda meu portfólio no GitHub Pages, criado para apresentar minha evolução como programador, minhas habilidades e meus projetos práticos.
+
+## Conteúdo
+
+- Página inicial com apresentação profissional.
+- Seção sobre minha jornada e objetivos.
+- Lista de habilidades em desenvolvimento web.
+- Projetos em destaque com links para exercícios e desafios.
+- Chamada para contato pelo GitHub.
+
+## Projetos relacionados
+
+- [Exercícios de HTML5 e CSS3](https://thyagoholanda.github.io/html-css/exercicios/)
+- [Desafios de HTML5 e CSS3](https://thyagoholanda.github.io/html-css/Desafios/)
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- GitHub Pages
